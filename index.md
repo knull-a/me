@@ -4,22 +4,22 @@ layout: home
 
 hero:
   name: "knull-a"
-  text: "Portfolio"
-  tagline: My great project tagline
+  text: "Software Developer"
+  tagline: Bringing Ideas to Life through Code
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Projects
+      link: /projects
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: View on Github
+      link: https://github.com/knull-a
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Frontend Enthusiast
+    details: I specialize in frontend development, where my focus is on crafting engaging user experiences. I bring together creativity and functionality to transform ideas into interactive interfaces.
+  - title: Versatile Developer
+    details: Delving into the backend details, I manage server-side scripting and database tasks. I also have experience in developing mobile applications.
+  - title: Eternal Learner
+    details: Always curious and eager to explore, I love picking up new technologies and methods, keeping my skills fresh and up-to-date.
 ---
 
