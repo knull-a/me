@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Projects
-      link: /projects
+      link: /personal-projects
     - theme: alt
       text: View on Github
       link: https://github.com/knull-a
