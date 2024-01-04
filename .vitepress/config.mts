@@ -1,28 +1,28 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "knull-a",
   description: "Portfolio",
+  head: [['link', { rel: 'icon', href: '/img/icon.svg' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Projects', link: '/personal-projects' }
+      { text: "Home", link: "/" },
+      { text: "Projects", link: "/personal-projects" },
     ],
 
     sidebar: [
       {
-        text: 'Projects',
+        text: "Projects",
         items: [
-          { text: 'Personal Projects', link: '/personal-projects' },
-          { text: 'Commercial Projects', link: '/commercial-projects' }
-        ]
-      }
+          { text: "Personal Projects", link: "/personal-projects" },
+          { text: "Commercial Projects", link: "/commercial-projects" },
+        ],
+      },
     ],
 
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/knull-a' }
-    ]
-  }
-})
+    socialLinks: [{ icon: "github", link: "https://github.com/knull-a" }],
+    logo: "/img/icon.svg",
+  },
+});

@@ -1,49 +1,72 @@
----
-outline: deep
----
+# Commercial Projects
 
-# Runtime API Examples
+Projects for both work and freelance assignments, and on most of them, I was working with a team.
 
-This page demonstrates usage of some of the runtime APIs provided by VitePress.
+## Bus Tickets
 
-The main `useData()` API can be used to access site, theme, and page data for the current page. It works in both `.md` and `.vue` files:
+Platform for booking bus tickets
 
-```md
-<script setup>
-import { useData } from 'vitepress'
+![Bus Tickets](/img/projects/bus-tickets.webp "Bus Tickets")
 
-const { theme, page, frontmatter } = useData()
-</script>
+::: details
+**Tech stack:**
+* Nuxt 3
+* Typescript
+* VeeValidate
+* Tailwind
+* Element Plus UI
+:::
 
-## Results
+## Production
 
-### Theme Data
-<pre>{{ theme }}</pre>
+Project to monitor the duration of employment, as well as track incomes and outcomes.
 
-### Page Data
-<pre>{{ page }}</pre>
+![Production](/img/projects/production.webp "Production")
 
-### Page Frontmatter
-<pre>{{ frontmatter }}</pre>
-```
+::: details
+**Tech stack:**
+* Vue 3
+* Typescript
+* VeeValidate
+* Pinia
+* Tailwind
+* Element Plus UI
+* Docker, Docker Compose
+* Gitlab CI/CD
+:::
 
-<script setup>
-import { useData } from 'vitepress'
+## Executive Committee
 
-const { site, theme, page, frontmatter } = useData()
-</script>
+Web application to montor invoices and payments of the company 
 
-## Results
+![Executive Committee](/img/projects/executive-committee.webp "Executive Committee")
 
-### Theme Data
-<pre>{{ theme }}</pre>
+::: details
+**Tech stack:**
+* Vue 3
+* Typescript
+* VeeValidate
+* Pinia
+* SCSS
+* Docker, Docker Compose
+* Gitlab CI/CD
+:::
 
-### Page Data
-<pre>{{ page }}</pre>
+## Sarqyt
 
-### Page Frontmatter
-<pre>{{ frontmatter }}</pre>
+Platform for collecting rational suggestions based on the Kaizen system 
+
+![Sarqyt](/img/projects/sarqyt.webp "Sarqyt")
+
+::: details
+**Tech stack:**
+* Vue 3
+* Typescript
+* VeeValidate
+* Pinia
+* SCSS
+:::
 
 ## More
 
-Check out the documentation for the [full list of runtime APIs](https://vitepress.dev/reference/runtime-api#usedata).
+I am unable to disclose the complete list of projects due to the presence of Non-Disclosure Agreements (NDAs).

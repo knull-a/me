@@ -6,6 +6,9 @@ hero:
   name: "knull-a"
   text: "Software Developer"
   tagline: Bringing Ideas to Life through Code
+  image: 
+    src: /img/icon.svg
+    alt: "Eye"
   actions:
     - theme: brand
       text: Projects
