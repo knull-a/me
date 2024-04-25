@@ -7,7 +7,7 @@ Here is a list of projects I created while learning new technologies. They're ar
 Project management [tool](https://github.com/knull-a/boards) that uses boards, lists, cards
 to help organize and prioritize your work.
 
-[![Boards](/img/projects/boards.webp "Boards")](https://boards-beta.vercel.app/)
+[![Boards](https://knullaimages.s3.eu-north-1.amazonaws.com/boards.webp "Boards")](https://boards-beta.vercel.app/)
 
 ::: details
 **Tech stack:**
@@ -26,7 +26,7 @@ to help organize and prioritize your work.
 
 Note taking [service](https://github.com/knull-a/notes) that offers you basic functionality and label tool
 
-[![Notes](/img/projects/notes.webp "Notes")](https://github.com/knull-a/notes/)
+[![Notes](https://knullaimages.s3.eu-north-1.amazonaws.com/notes.webp "Notes")](https://github.com/knull-a/notes/)
 
 ::: details
 **Tech stack:**
@@ -45,7 +45,7 @@ Note taking [service](https://github.com/knull-a/notes) that offers you basic fu
 
 Web [application](https://github.com/knull-a/quran-online) for reading and learning holy Quran
 
-[![Quran Online](/img/projects/quran-online.webp "Quran Online")](https://main--cheery-tarsier-f5e7ce.netlify.app/)
+[![Quran Online](https://knullaimages.s3.eu-north-1.amazonaws.com/quran-online.webp "Quran Online")](https://main--cheery-tarsier-f5e7ce.netlify.app/)
 
 ::: details
 **Tech stack:**
@@ -62,7 +62,7 @@ Web [application](https://github.com/knull-a/quran-online) for reading and learn
 
 Progressive Web [Application](https://github.com/knull-a/quran-online) (PWA) built with Capacitor
 
-[![Ecommerce Shop](/img/projects/ecommerce-shop.webp "Ecommerce Shop")](https://main--profound-cranachan-ac655a.netlify.app/)
+[![Ecommerce Shop](https://knullaimages.s3.eu-north-1.amazonaws.com/ecommerce-shop.webp "Ecommerce Shop")](https://main--profound-cranachan-ac655a.netlify.app/)
 
 ::: details
 **Tech stack:**
@@ -79,7 +79,7 @@ Progressive Web [Application](https://github.com/knull-a/quran-online) (PWA) bui
 
 [Website](https://github.com/knull-a/books-search) to search, review and add books to shelves
 
-[![Books Search](/img/projects/books-search.webp "Books Search")](https://github.com/knull-a/books-search)
+[![Books Search](https://knullaimages.s3.eu-north-1.amazonaws.com/books-search.webp "Books Search")](https://github.com/knull-a/books-search)
 
 ::: details
 **Tech stack:**
@@ -96,7 +96,7 @@ Progressive Web [Application](https://github.com/knull-a/quran-online) (PWA) bui
 
 Simple pomodoro [tracker](https://github.com/knull-a/pomodoro-timer)
 
-[![Pomodoro Timer](/img/projects/pomodoro-timer.webp "Pomodoro Timer")](https://github.com/knull-a/pomodoro-timer)
+[![Pomodoro Timer](https://knullaimages.s3.eu-north-1.amazonaws.com/pomodoro-timer.webp "Pomodoro Timer")](https://github.com/knull-a/pomodoro-timer)
 
 ::: details
 **Tech stack:**
