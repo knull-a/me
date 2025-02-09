@@ -2,6 +2,40 @@
 
 Projects for both work and freelance assignments, and on most of them, I was working with a team.
 
+## Kaskyr
+
+SaaS platform that automates and optimizes operations for merchants on the Kaspi.kz marketplace
+
+[![Kaskyr](https://knullasu-images.s3.eu-north-1.amazonaws.com/kaskyr.webp "Kaskyr")](https://kaskyr.com/)
+
+::: details
+**Tech stack:**
+* React
+* Typescript
+* Tailwind
+* Fastify
+* PostgreSQL
+* Redis
+* Docker, Docker Compose
+* Gitlab CI/CD
+:::
+
+## CH App
+
+
+Smart home mobile application for controlling IoT devices
+
+![CH App](https://knullasu-images.s3.eu-north-1.amazonaws.com/ch-app.webp "CH App")
+
+::: details
+**Tech stack:**
+* Vue 3
+* Typescript
+* Ionic & Capacitor
+* Docker, Docker Compose
+* Gitlab CI/CD
+:::
+
 ## Kitchen Set
 
 Create your own kitchen furniture online
@@ -12,9 +46,7 @@ Create your own kitchen furniture online
 **Tech stack:**
 * Nuxt 3
 * Typescript
-* VeeValidate
 * Tailwind
-* Element Plus UI
 :::
 
 ## Bus Tickets
@@ -27,9 +59,7 @@ Platform for booking bus tickets
 **Tech stack:**
 * Nuxt 3
 * Typescript
-* VeeValidate
 * Tailwind
-* Element Plus UI
 :::
 
 ## Production
@@ -42,10 +72,7 @@ Project to monitor the duration of employment, as well as track incomes and outc
 **Tech stack:**
 * Vue 3
 * Typescript
-* VeeValidate
-* Pinia
 * Tailwind
-* Element Plus UI
 * Docker, Docker Compose
 * Gitlab CI/CD
 :::
@@ -60,8 +87,6 @@ Web application to montor invoices and payments of the company
 **Tech stack:**
 * Vue 3
 * Typescript
-* VeeValidate
-* Pinia
 * SCSS
 * Docker, Docker Compose
 * Gitlab CI/CD
@@ -77,8 +102,6 @@ Platform for collecting rational suggestions based on the Kaizen system
 **Tech stack:**
 * Vue 3
 * Typescript
-* VeeValidate
-* Pinia
 * SCSS
 :::
 
