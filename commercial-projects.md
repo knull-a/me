@@ -20,6 +20,34 @@ SaaS platform that automates and optimizes operations for merchants on the Kaspi
 * Gitlab CI/CD
 :::
 
+## NomadFit
+
+A workout app that uses AI and computer vision to analyze exercise form, track progress, and create personalized training programs.
+
+![Kaskyr](https://knullasu-images.s3.eu-north-1.amazonaws.com/nomadfit.webp "NomadFit")
+
+::: details
+**Tech stack:**
+* Vue 3
+* Typescript
+* Tailwind
+* Docker, Docker Compose
+:::
+
+## TwinCelebrity
+
+An AI-powered service that finds which celebrity you resemble by analyzing your uploaded photo.
+
+![Kaskyr](https://knullasu-images.s3.eu-north-1.amazonaws.com/twincelebrity.webp "TwinCelebrity")
+
+::: details
+**Tech stack:**
+* Vue 3
+* Typescript
+* Tailwind
+* Docker, Docker Compose
+:::
+
 ## CH App
 
 
