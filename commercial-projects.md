@@ -6,7 +6,7 @@ Projects for both work and freelance assignments, and on most of them, I was wor
 
 Create your own kitchen furniture online
 
-![Kitchen Set](https://knullaimages.s3.eu-north-1.amazonaws.com/kitchen-set.webp "Kitchen Set")
+![Kitchen Set](https://knullasu-images.s3.eu-north-1.amazonaws.com/kitchen-set.webp "Kitchen Set")
 
 ::: details
 **Tech stack:**
@@ -21,7 +21,7 @@ Create your own kitchen furniture online
 
 Platform for booking bus tickets
 
-![Bus Tickets](https://knullaimages.s3.eu-north-1.amazonaws.com/bus-tickets.webp "Bus Tickets")
+![Bus Tickets](https://knullasu-images.s3.eu-north-1.amazonaws.com/bus-tickets.webp "Bus Tickets")
 
 ::: details
 **Tech stack:**
@@ -36,7 +36,7 @@ Platform for booking bus tickets
 
 Project to monitor the duration of employment, as well as track incomes and outcomes.
 
-![Production](https://knullaimages.s3.eu-north-1.amazonaws.com/production.webp "Production")
+![Production](https://knullasu-images.s3.eu-north-1.amazonaws.com/production.webp "Production")
 
 ::: details
 **Tech stack:**
@@ -54,7 +54,7 @@ Project to monitor the duration of employment, as well as track incomes and outc
 
 Web application to montor invoices and payments of the company 
 
-![Executive Committee](https://knullaimages.s3.eu-north-1.amazonaws.com/executive-committee.webp "Executive Committee")
+![Executive Committee](https://knullasu-images.s3.eu-north-1.amazonaws.com/executive-committee.webp "Executive Committee")
 
 ::: details
 **Tech stack:**
@@ -71,7 +71,7 @@ Web application to montor invoices and payments of the company
 
 Platform for collecting rational suggestions based on the Kaizen system 
 
-![Sarqyt](https://knullaimages.s3.eu-north-1.amazonaws.com/sarqyt.webp "Sarqyt")
+![Sarqyt](https://knullasu-images.s3.eu-north-1.amazonaws.com/sarqyt.webp "Sarqyt")
 
 ::: details
 **Tech stack:**
