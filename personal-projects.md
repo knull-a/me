@@ -2,6 +2,22 @@
 
 Here is a list of projects I created while learning new technologies. They're arranged by relevance to highlight my skill development.
 
+## MMA Platform
+
+This is a NestJS-based API for managing MMA fighters, events, fights, and rankings. The application follows Clean Architecture principles and provides a GraphQL API for interacting with the platform.
+
+![MMA Platform](/img/mma-platform.webp "MMA Platform")
+
+::: details
+**Tech stack:**
+* NestJS
+* TypeORM
+* GraphQL
+* Typescript
+* PostgreSQL
+* Docker, Docker Compose
+:::
+
 ## Boards
 
 Project management [tool](https://github.com/knull-a/boards) that uses boards, lists, cards

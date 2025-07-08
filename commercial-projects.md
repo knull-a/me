@@ -2,6 +2,20 @@
 
 Projects for both work and freelance assignments, and on most of them, I was working with a team.
 
+## Tonflux
+Powerful tool for analyzing wallet activity on the TON network. Get real-time data on balances, transactions, NFTs, and tokens. 
+
+[![Tonflux](/img/tonflux.webp "Tonflux")](https://tonflux.cc/)
+
+::: details
+**Tech stack:**
+* Nuxt 3
+* Typescript
+* Tailwind
+* MySQL
+* Docker, Docker Compose
+:::
+
 ## Kaskyr
 
 SaaS platform that automates and optimizes operations for merchants on the Kaspi.kz marketplace
