@@ -6,7 +6,7 @@ Projects for both work and freelance assignments, and on most of them, I was wor
 
 SaaS platform that automates and optimizes operations for merchants on the Kaspi.kz marketplace
 
-[![Kaskyr](https://knullasu-images.s3.eu-north-1.amazonaws.com/kaskyr.webp "Kaskyr")](https://kaskyr.com/)
+[![Kaskyr](/img/kaskyr.webp "Kaskyr")](https://kaskyr.com/)
 
 ::: details
 **Tech stack:**
@@ -24,7 +24,7 @@ SaaS platform that automates and optimizes operations for merchants on the Kaspi
 
 A workout app that uses AI and computer vision to analyze exercise form, track progress, and create personalized training programs.
 
-![Kaskyr](https://knullasu-images.s3.eu-north-1.amazonaws.com/nomadfit.webp "NomadFit")
+![Kaskyr](/img/nomadfit.webp "NomadFit")
 
 ::: details
 **Tech stack:**
@@ -38,7 +38,7 @@ A workout app that uses AI and computer vision to analyze exercise form, track p
 
 An AI-powered service that finds which celebrity you resemble by analyzing your uploaded photo.
 
-![Kaskyr](https://knullasu-images.s3.eu-north-1.amazonaws.com/twincelebrity.webp "TwinCelebrity")
+![Kaskyr](/img/twincelebrity.webp "TwinCelebrity")
 
 ::: details
 **Tech stack:**
@@ -53,7 +53,7 @@ An AI-powered service that finds which celebrity you resemble by analyzing your 
 
 Smart home mobile application for controlling IoT devices
 
-![CH App](https://knullasu-images.s3.eu-north-1.amazonaws.com/ch-app.webp "CH App")
+![CH App](/img/ch-app.webp "CH App")
 
 ::: details
 **Tech stack:**
@@ -68,7 +68,7 @@ Smart home mobile application for controlling IoT devices
 
 Create your own kitchen furniture online
 
-![Kitchen Set](https://knullasu-images.s3.eu-north-1.amazonaws.com/kitchen-set.webp "Kitchen Set")
+![Kitchen Set](/img/kitchen-set.webp "Kitchen Set")
 
 ::: details
 **Tech stack:**
@@ -81,7 +81,7 @@ Create your own kitchen furniture online
 
 Platform for booking bus tickets
 
-![Bus Tickets](https://knullasu-images.s3.eu-north-1.amazonaws.com/bus-tickets.webp "Bus Tickets")
+![Bus Tickets](/img/bus-tickets.webp "Bus Tickets")
 
 ::: details
 **Tech stack:**
@@ -94,7 +94,7 @@ Platform for booking bus tickets
 
 Project to monitor the duration of employment, as well as track incomes and outcomes.
 
-![Production](https://knullasu-images.s3.eu-north-1.amazonaws.com/production.webp "Production")
+![Production](/img/production.webp "Production")
 
 ::: details
 **Tech stack:**
@@ -109,7 +109,7 @@ Project to monitor the duration of employment, as well as track incomes and outc
 
 Web application to montor invoices and payments of the company 
 
-![Executive Committee](https://knullasu-images.s3.eu-north-1.amazonaws.com/executive-committee.webp "Executive Committee")
+![Executive Committee](/img/executive-committee.webp "Executive Committee")
 
 ::: details
 **Tech stack:**
@@ -124,7 +124,7 @@ Web application to montor invoices and payments of the company
 
 Platform for collecting rational suggestions based on the Kaizen system 
 
-![Sarqyt](https://knullasu-images.s3.eu-north-1.amazonaws.com/sarqyt.webp "Sarqyt")
+![Sarqyt](/img/sarqyt.webp "Sarqyt")
 
 ::: details
 **Tech stack:**
