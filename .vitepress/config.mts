@@ -4,7 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "knull-a",
   description: "Portfolio",
-  head: [['link', { rel: 'icon', href: '/img/icon.svg' }]],
+  head: [['link', { rel: 'icon', href: '/me/img/icon.png' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -23,7 +23,7 @@ export default defineConfig({
     ],
 
     socialLinks: [{ icon: "github", link: "https://github.com/knull-a" }],
-    logo: "/img/icon.svg",
+    logo: "/img/icon.png",
   },
   base: "/me/",
 });

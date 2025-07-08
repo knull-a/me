@@ -7,7 +7,7 @@ hero:
   text: "Software Developer"
   tagline: Bringing Ideas to Life through Code
   image: 
-    src: /img/icon.svg
+    src: /img/icon.png
     alt: "Eye"
   actions:
     - theme: brand
@@ -18,10 +18,10 @@ hero:
       link: https://github.com/knull-a
 
 features:
-  - title: Frontend Enthusiast
-    details: I specialize in frontend development, where my focus is on crafting engaging user experiences. I bring together creativity and functionality to transform ideas into interactive interfaces.
-  - title: Versatile Developer
-    details: Delving into the backend details, I manage server-side scripting and database tasks. I also have experience in developing mobile applications.
+  - title: Solo Builder
+    details: Design, develop, and ship complete products on my own — from first commit to first customer. I move fast, cut complexity, and aim for utility over polish.
+  - title: Product-First Mindset
+    details: I don’t just write code — I build solutions. My focus is on shipping usable products that solve real problems, get feedback quickly, and evolve through iteration.
   - title: Eternal Learner
     details: Always curious and eager to explore, I love picking up new technologies and methods, keeping my skills fresh and up-to-date.
 ---
