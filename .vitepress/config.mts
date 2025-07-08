@@ -25,4 +25,5 @@ export default defineConfig({
     socialLinks: [{ icon: "github", link: "https://github.com/knull-a" }],
     logo: "/img/icon.svg",
   },
+  base: "/me/",
 });
