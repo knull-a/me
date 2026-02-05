@@ -7,15 +7,19 @@
 body {
     font-family: 'Courier New', Courier, monospace;
     background: #000000;
-    background-image: url('img/bg.png');
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
     padding: 20px;
+    transition: background-image 0.3s ease-in;
+}
+
+body.bg-loaded {
+    background-image: url('img/bg.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 .terminal {

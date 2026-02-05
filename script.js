@@ -86,5 +86,15 @@ function displayPortfolio() {
     });
 }
 
+// Preload background image
+function preloadBackground() {
+    const img = new Image();
+    img.onload = () => {
+        document.body.classList.add('bg-loaded');
+    };
+    img.src = 'img/bg.png';
+}
+
 // Initialize on load
 displayPortfolio();
+preloadBackground();
