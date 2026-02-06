@@ -26,7 +26,7 @@ const portfolio = {
         },
         {
             text: "state revenue committee at the ministry of finance of kazakhstan",
-            link: "https://kgd.gov.kz"
+            link: "https://portal.kgd.gov.kz/en/"
         },
         {
             text: "fastest autopilot bot for kazakhstan's top e-commerce platform",
