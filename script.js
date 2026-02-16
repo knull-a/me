@@ -4,7 +4,7 @@ const portfolio = {
     bio: "passionate about users happiness and solving real-world problems",
 
     links: [
-        "https://github.com/knull-a",
+        "https://github.com/kainulla",
         "https://www.linkedin.com/in/bakhtiyar-kainolla/",
         "https://x.com/kainulla1",
         "https://t.me/kainulla",
