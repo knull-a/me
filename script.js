@@ -84,6 +84,7 @@ function displayPortfolio() {
         const href = isEmail ? `mailto:${link}` : link;
         addOutput(`<a href="${href}" target="_blank" class="link">${link}</a>`);
     });
+
 }
 
 // Animated particle background
