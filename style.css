@@ -6,29 +6,34 @@
 
 body {
     font-family: 'Courier New', Courier, monospace;
-    background: #000000;
+    background: #0a0a0a;
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
     padding: 20px;
-    transition: background-image 0.3s ease-in;
+    overflow: hidden;
 }
 
-body.bg-loaded {
-    background-image: url('img/bg.png');
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
+#bg-canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
 }
 
 .terminal {
+    position: relative;
+    z-index: 1;
     width: 100%;
     max-width: 900px;
-    background: #1e1e1e;
+    background: rgba(30, 30, 30, 0.92);
     border-radius: 8px;
-    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
     overflow: hidden;
+    backdrop-filter: blur(8px);
 }
 
 .terminal-header {
