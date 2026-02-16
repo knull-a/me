@@ -1,7 +1,7 @@
 // Portfolio data
 const portfolio = {
     name: "bakhtiyar kainolla, product engineer",
-    bio: "passionate about users happiness and solving real-world problems",
+    bio: "shipping products people actually love",
 
     links: [
         "https://github.com/kainulla",
